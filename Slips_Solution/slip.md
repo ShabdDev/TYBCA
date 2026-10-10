@@ -5,6 +5,8 @@ https://www.figma.com/community/file/1658582825495773514/food-delivery-app-low-f
 1. Persona
 https://www.figma.com/community/file/1146762810885550291/user-personas?q_id=3f5bb94a-599b-4299-87de-9c656e9028ae
 
+2. Journey map
+https://www.figma.com/community/file/1167700722702284382/journey-map-template
 
 ```
 
